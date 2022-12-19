@@ -5,7 +5,9 @@ which make it to print with two materials very easily such as TPU, TPE, HIPS, AB
 Combined with auto-leveling and extruder 2 leveling knob solved the a lot of IDEX users’ leveling trouble. 
 Two extruders work independently will save time， save money， and save effort in 3d printing production, 
 The large build volume satisfy most of using demand compared with the full enclosed IDEX 3d printer. 
-There are  4 print modes，single-mode，dual-mode, duplicate mode, and mirror mode. 
+There are 4 print modes，single-mode，dual-mode, duplicate mode, and mirror mode. 
+
+Welcome to post your ideas in sovol forum or sovol user group on Facebook.
 
 # Related tutorials 
 
