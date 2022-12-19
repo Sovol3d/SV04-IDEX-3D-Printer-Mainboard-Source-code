@@ -9,6 +9,14 @@ There are 4 print modes，single-mode，dual-mode, duplicate mode, and mirror mo
 
 Welcome to post your ideas in sovol forum or sovol user group on Facebook.
 
+# Join Sovol Community
+
+- Sovol Facebook page:  https://www.facebook.com/sovol3d/
+- Sovol Youtube Channel:  https://www.youtube.com/channel/UCsKntuwh7dhAGep8R6kasog/videos
+- Sovol Offcial User Group:  https://www.facebook.com/groups/sovol3d
+- Sovol SV04 Users Group:  https://www.facebook.com/groups/849799798957261
+- Sovol Forum website:  https://forum.sovol3d.com/
+
 # Related tutorials 
 
 - User Manual.  [Click here](https://drive.google.com/file/d/1QpIDenqIKmsA2blAhKkOxhp2SKL8hwoI/view).
@@ -51,12 +59,5 @@ PlatformIO IDE for VSCode
 - Connectivity: SD Card or Data Cable
 - 7 Step Motors: 42-40 Step Motor*1 42-34 Step Motor*4 42-28 *2
 
-# Join Sovol Community
-
-- Sovol Facebook page:  https://www.facebook.com/sovol3d/
-- Sovol Youtube Channel:  https://www.youtube.com/channel/UCsKntuwh7dhAGep8R6kasog/videos
-- Sovol Offcial User Group:  https://www.facebook.com/groups/sovol3d
-- Sovol SV04 Users Group:  https://www.facebook.com/groups/849799798957261
-- Sovol Forum website:  https://forum.sovol3d.com/
 
 
