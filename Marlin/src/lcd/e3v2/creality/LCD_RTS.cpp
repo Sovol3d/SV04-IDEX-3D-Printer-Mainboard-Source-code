@@ -1,5 +1,5 @@
-#include "lcd_rts.h"
-#include <wstring.h>
+#include "LCD_RTS.h"
+#include <WString.h>
 #include <stdio.h>
 #include <string.h>
 #include <Arduino.h>
